@@ -19,4 +19,5 @@ pip install -r requirements.txt
 ```
 
 You can ignore for now possible version conflicts.
+
 Please follow the instructions in ``Instructions.pdf`` to complete the assignment.

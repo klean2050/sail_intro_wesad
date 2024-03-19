@@ -1,10 +1,10 @@
-# Introduction to Physiological Signal Processing and Learning
+# Introduction to Physiological Signal Processing
 
 Repository to accompany the SAIL assignment.
 
 ## Installation
 
-We recommend using a conda environment with ``Python >= 3.9`` (assume you already have one). make sure you activate it:
+We recommend using a conda environment with ``Python >= 3.9`` (assume you already have it). Activate it:
 
 ```bash
 conda activate <env-name>
